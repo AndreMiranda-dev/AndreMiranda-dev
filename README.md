@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @AndreMiranda-dev
 - 👀 I’m interested in learning to code and becoming a software engineer and working with AI.
 - 🌱 I’m currently learning computer science with a concentration in software engineering.
